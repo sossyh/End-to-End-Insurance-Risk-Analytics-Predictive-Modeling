@@ -107,6 +107,7 @@ End-to-End-Insurance-Risk-Analytics-Predictive-Modeling/
 ### 1. Clone the Repo
 
 git clone https://github.com/sossyh/End-to-End-Insurance-Risk-Analytics-Predictive-Modeling.git
+
 cd End-to-End-Insurance-Risk-Analytics-Predictive-Modeling
 
 ### 2. Create a Virtual Environment
