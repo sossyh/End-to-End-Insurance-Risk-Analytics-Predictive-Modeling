@@ -10,22 +10,39 @@ This project develops a robust, reproducible, and interpretable machine learning
 
 End-to-End-Insurance-Risk-Analytics-Predictive-Modeling/
 ├── data/ # Raw, processed, and external data
+
 │ ├── raw/
+
 │ ├── processed/
+
 │ └── external/
+
 ├── notebooks/ # EDA, statistical testing, modeling notebooks
+
 ├── src/ # Scripts for data prep, analysis, modeling
+
 ├── outputs/ # Visualizations and reports
+
 │ ├── figures/
+
 │ └── reports/
+
 ├── logs/ # Logs for data processing and modeling
+
 ├── tests/ # Unit tests for pipeline components
+
 ├── .github/workflows/ # CI/CD configuration (GitHub Actions)
+
 ├── .dvc/ # DVC metadata
+
 ├── requirements.txt # Python dependencies
+
 ├── environment.yml # Conda environment file (optional)
+
 ├── .gitignore
+
 ├── README.md
+
 └── LICENSE
 
 
@@ -88,9 +105,8 @@ End-to-End-Insurance-Risk-Analytics-Predictive-Modeling/
 
 ### 1. Clone the Repo
 
-git clone https://github.com/your-username/insurance-eda-project.git
-cd insurance-eda-project
-
+git clone https://github.com/sossyh/End-to-End-Insurance-Risk-Analytics-Predictive-Modeling.git
+cd End-to-End-Insurance-Risk-Analytics-Predictive-Modeling
 ---
 
 ### 2. Create a Virtual Environment
