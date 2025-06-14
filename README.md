@@ -120,6 +120,7 @@ pip install -r requirements.txt
 ###  Visuals and Reports
 outputs/
 ├── figures/       # Charts and visualizations
+
 └── reports/       # Statistical summaries, hypothesis tests
 
 ### Data Versioning with DVC
